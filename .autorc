@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "mhmuftee",
+  "repo": "container-xkcm2fs",
+  "name": "mhmuftee",
+}
